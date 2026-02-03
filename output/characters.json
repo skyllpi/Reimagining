@@ -1,0 +1,114 @@
+[
+  {
+    "original_name": "Romeo",
+    "new_name": "Leo Vance",
+    "role": "Lead AI Architect, Novel Architectures",
+    "organization": "Nexus Synthetics",
+    "traits": [
+      "Impassioned",
+      "Brilliant",
+      "Idealistic",
+      "Impulsive",
+      "Sometimes melancholic"
+    ],
+    "emotional_arc": "Initially disillusioned with current projects, he finds renewed purpose and intense focus through a secret collaboration (and romance) with a rival. His attempts to merge their visions and overcome corporate animosity lead to a desperate series of actions that ultimately backfire, resulting in profound loss."
+  },
+  {
+    "original_name": "Juliet",
+    "new_name": "Dr. Julia Caplan",
+    "role": "Senior AI Ethics Researcher & Lead Architect, Human Alignment",
+    "organization": "Aethel Labs",
+    "traits": [
+      "Highly intelligent",
+      "Principled",
+      "Determined",
+      "Innovative",
+      "Deeply empathetic"
+    ],
+    "emotional_arc": "Starts as a brilliant but somewhat sheltered researcher bound by her lab's rigid protocols. She falls for a rival's innovative (but potentially dangerous) vision, leading her to betray her lab's principles in a desperate attempt to unite their work, with tragic consequences for herself and those around her."
+  },
+  {
+    "original_name": "Mercutio",
+    "new_name": "Dr. Mateo Curtis",
+    "role": "Lead AI Hacker & Algorithm Disruptor",
+    "organization": "Nexus Synthetics",
+    "traits": [
+      "Brilliant",
+      "Irreverent",
+      "Cynical",
+      "Provocative",
+      "Loyal to friends"
+    ],
+    "emotional_arc": "His sharp wit and willingness to push ethical boundaries to expose flaws in rival systems inadvertently lead to a fatal confrontation. This incident escalates the corporate rivalry into a personal tragedy, forcing his friends into desperate and ultimately doomed actions."
+  },
+  {
+    "original_name": "Tybalt",
+    "new_name": "Talon Caplan",
+    "role": "Head of Defensive AI Security & IP Enforcement",
+    "organization": "Aethel Labs",
+    "traits": [
+      "Aggressive",
+      "Possessive",
+      "Fiercely loyal",
+      "Suspicious",
+      "Highly competitive"
+    ],
+    "emotional_arc": "Driven by intense loyalty to Aethel and a personal vendetta against Nexus's 'reckless' practices, his relentless attempts to sabotage and discredit rivals lead to a direct, fatal confrontation, igniting a chain of events that spirals into widespread tragedy."
+  },
+  {
+    "original_name": "Friar Laurence",
+    "new_name": "Dr. Laurence Finn",
+    "role": "Independent AI Ethics Consultant / Research Advisor",
+    "organization": "Independent",
+    "traits": [
+      "Sage",
+      "Well-intentioned",
+      "Pragmatic",
+      "Overconfident",
+      "A bit naive"
+    ],
+    "emotional_arc": "A respected figure who attempts to bridge the gap between the warring labs through a secret, high-risk collaboration plan for the lovers. His well-intentioned but overly complex scheme unravels disastrously, leading to profound guilt and responsibility for the tragedy."
+  },
+  {
+    "original_name": "Nurse",
+    "new_name": "Nora Santiago",
+    "role": "Executive Assistant to Dr. Caplan",
+    "organization": "Aethel Labs",
+    "traits": [
+      "Affectionate",
+      "Gossipy",
+      "Fiercely protective",
+      "Practical",
+      "Easily swayed by fear"
+    ],
+    "emotional_arc": "A loyal confidante who initially supports Julia's secret 'cross-lab' collaboration out of deep affection. However, her practical concerns and fear for Julia's safety lead her to abandon the plan when it becomes too risky, leaving Julia isolated in her desperate final actions."
+  },
+  {
+    "original_name": "Capulet",
+    "new_name": "Dr. Arthur Caplan",
+    "role": "CEO & Founder",
+    "organization": "Aethel Labs",
+    "traits": [
+      "Visionary",
+      "Autocratic",
+      "Fiercely protective of IP",
+      "Traditionalist",
+      "Stubborn"
+    ],
+    "emotional_arc": "Initially a benevolent but firm leader, his deep-seated rivalry with Nexus and his desire to control his daughter's career choices escalate into a rigid, unyielding stance. His inability to see past the corporate feud indirectly destroys his own legacy and family, leading to eventual regret and reconciliation."
+  },
+  {
+    "original_name": "Montague",
+    "new_name": "CEO Marcus Vance",
+    "role": "CEO & Co-founder",
+    "organization": "Nexus Synthetics",
+    "traits": [
+      "Ambitious",
+      "Competitive",
+      "Anti-establishment",
+      "Proud",
+      "Dismissive of rivals"
+    ],
+    "emotional_arc": "Driven by a competitive spirit and a desire to disrupt Aethel's dominance, his encouragement of his team's aggressive innovation and his refusal to compromise with rivals inadvertently fuels the conflict. This leads to personal loss and a forced reckoning with the destructive nature of their rivalry."
+  }
+]
