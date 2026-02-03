@@ -18,4 +18,4 @@ This project demonstrates a multi-stage AI system that reimagines a classic publ
 ## Running the Project
 ```bash
 pip install -r requirements.txt
-python narrative_transformer.py
+python run.py
